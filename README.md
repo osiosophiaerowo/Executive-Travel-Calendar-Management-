@@ -27,8 +27,38 @@ I acted as a Virtual Assistant for an executive traveling from London to New Yor
 
 ## Proof of My Work
 
-I scheduled the flight using the local times for both departure (GMT) and arrival (EST). I added the flight number BA173, Terminal 5 (LHR), and Terminal 7 (JFK), along with her Seat 14B, so she didn't have to search her inbox while traveling.
+**1. Flight From London to New York**
+
+For the flight on Tuesday, 3 February, I organized all travel information for British Airways Flight 173 from London Heathrow Airport to John F. Kennedy International Airport into a single calendar entry for Sarah. I included the full flight details showing a departure from London Heathrow Airport at 11:20 AM Greenwich Mean Time (GMT) and an arrival at New York John F. Kennedy International Airport at 2:35 PM Eastern Standard Time (EST). 
+
+I ensured every logistical detail was present, including the confirmation number BA12345, Terminal 5 for the departure, Terminal 7 for the arrival, and Seat 14B which is an aisle seat. Additionally, I set a reminder for thirty minutes before the event and added a proactive note for the executive to have her passport and New York City hotel address ready for the immigration process to ensure a smooth transition.
 
 <img width="1306" height="648" alt="Flight to New York" src="https://github.com/user-attachments/assets/f608d4a9-3b73-4d36-a61b-eb027a04a870" />
 
 
+**2. The Dinnner Meeting In New York**
+
+I scheduled a dinner meeting for Sarah and Mike, who is an investor, on Tuesday, 3 February, from 7:00 PM to 7:30 PM at The Grill located at 99 East 52nd Street, New York, New York 10022. I included all essential details in the calendar invitation, specifically noting that the reservation is held under the name "Sarah Smith" and that the required dress code is business casual attire for this meeting with potential New York City investors. 
+
+I included a clickable map link to the restaurant location so she can easily access navigation directions, and I set a notification alert for thirty minutes before the event to ensure she has sufficient time to arrive at the venue.
+
+**3. The Busy Day In New York**
+
+I coordinated a full day of high-priority activities for Sarah, starting with a Focus Time and Preparation session at 7:30 AM at The High Line Hotel followed by a United Kingdom Team Sync at 8:15 AM. I specifically scheduled this Zoom video call to align with the time back home in London, where it was 1:15 PM, ensuring the team could meet during their standard business hours. 
+
+I blocked out the majority of her day from 9:00 AM to 5:00 PM for the New York City Tech Innovation Conference at the Javits Center located at 429 11th Avenue, New York, New York 10001. Within that conference schedule, I organized a high-priority Lawyer Call at 2:00 PM Eastern Standard Time, which I carefully aligned with the London closing time of 7:00 PM to ensure the legal team was still available to speak. 
+
+By managing these time zone overlaps, I ensured Sarah remained connected to her London operations while attending her New York City engagements.
+
+***3.1 UK Team Sync***
+
+
+***3.2 Tech Conference***
+
+
+***3.3 Lawyer Call***
+
+
+
+
+ 
