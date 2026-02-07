@@ -3,10 +3,11 @@ International travel coordination and dual-time zone calendar management for a L
 
 # Project: Planning a Business Trip from London to New York
 
-## 📖 What this project is about
+## What this project is about
 I acted as a Virtual Assistant for an executive traveling from London to New York for a three-day business trip. This project involved more than just booking flights; I managed her entire stay, including her attendance at a major Tech Conference, a high-priority call with her lawyer, and an important dinner meeting with a client. I handled everything from the moment she left London until she arrived back home on the "Red-eye" flight.
 
-## 🎯 My Main Goals
+## My Main Goals
+
 **​Handled Time Zone Change:** Since New York is 5 hours behind London, I made sure all flights, the tech conference, and the dinner meeting were set in the correct local time so there were no missed appointments and there was no confusion.
 
 **​Organizing the Travel Details:** I put the flight numbers, departure/arrival times, airport terminals, and even her seat number (14B) right in the calendar. This ensured she had every detail for her London to New York trip in one place without having to look through her emails.
