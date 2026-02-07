@@ -42,6 +42,10 @@ I scheduled a dinner meeting for Sarah and Mike, who is an investor, on Tuesday,
 
 I included a clickable map link to the restaurant location so she can easily access navigation directions, and I set a notification alert for thirty minutes before the event to ensure she has sufficient time to arrive at the venue.
 
+![Uploading Dinner Meeting.png…]()
+
+
+
 **3. The Busy Day In New York**
 
 I coordinated a full day of high-priority activities for Sarah, starting with a Focus Time and Preparation session at 7:30 AM at The High Line Hotel followed by a United Kingdom Team Sync at 8:15 AM. I specifically scheduled this Zoom video call to align with the time back home in London, where it was 1:15 PM, ensuring the team could meet during their standard business hours. 
