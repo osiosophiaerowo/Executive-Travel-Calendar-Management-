@@ -67,7 +67,8 @@ By managing these time zone overlaps, I ensured Sarah remained connected to her 
 <img width="1304" height="646" alt="Lawyer Call" src="https://github.com/user-attachments/assets/eb6f2609-413c-4319-9e7a-8f6f81c7c805" />
 
 
-***FULL SCHEDULE INCLUDING OVERNIGHT FLIGHT BACK TO LONDON
+
+**FULL SCHEDULE INCLUDING OVERNIGHT FLIGHT BACK TO LONDON**
 
 <img width="1288" height="440" alt="4 days schedule" src="https://github.com/user-attachments/assets/cbfe48c1-285e-43b6-8ce9-2fdb5f33ff72" />
 
