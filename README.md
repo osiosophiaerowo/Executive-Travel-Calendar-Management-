@@ -50,15 +50,25 @@ I blocked out the majority of her day from 9:00 AM to 5:00 PM for the New York C
 
 By managing these time zone overlaps, I ensured Sarah remained connected to her London operations while attending her New York City engagements.
 
+<img width="1302" height="644" alt="Feb 4 itinerary" src="https://github.com/user-attachments/assets/b04f3b0f-2aef-41bc-9f57-80f2376a49cf" />
+
+
 ***3.1 UK Team Sync***
+
+<img width="1303" height="648" alt="Google Meeting Schedule" src="https://github.com/user-attachments/assets/7b76d875-0d73-46a6-9dda-831e703a9db4" />
 
 
 ***3.2 Tech Conference***
 
+<img width="1306" height="648" alt="Conference" src="https://github.com/user-attachments/assets/638e8cff-b7ae-4898-9de6-f7bac4f6a50a" />
 
 ***3.3 Lawyer Call***
 
+<img width="1304" height="646" alt="Lawyer Call" src="https://github.com/user-attachments/assets/eb6f2609-413c-4319-9e7a-8f6f81c7c805" />
 
+
+
+<img width="1288" height="440" alt="4 days schedule" src="https://github.com/user-attachments/assets/cbfe48c1-285e-43b6-8ce9-2fdb5f33ff72" />
 
 
  
