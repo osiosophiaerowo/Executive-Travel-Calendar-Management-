@@ -25,10 +25,10 @@ I acted as a Virtual Assistant for an executive traveling from London to New Yor
 *​**Green:*** Prep*
 *​**Grey:*** Conference*
 
-## 🛠️ What I did
-1.
+## Proof of My Work
 
----
 
-## 🔍 Proof of My Work
-*Below are the screenshots of the calendar I built.*
+
+<img width="1306" height="648" alt="Flight to New York" src="https://github.com/user-attachments/assets/f608d4a9-3b73-4d36-a61b-eb027a04a870" />
+
+
