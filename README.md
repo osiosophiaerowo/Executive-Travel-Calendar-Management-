@@ -42,7 +42,8 @@ I scheduled a dinner meeting for Sarah and Mike, who is an investor, on Tuesday,
 
 I included a clickable map link to the restaurant location so she can easily access navigation directions, and I set a notification alert for thirty minutes before the event to ensure she has sufficient time to arrive at the venue.
 
-![Uploading Dinner Meeting.png…]()
+<img width="1306" height="645" alt="Dinner Meeting" src="https://github.com/user-attachments/assets/f2d25c9f-d0bd-4459-b9b0-e84c6abc115b" />
+
 
 
 
